@@ -1,1 +1,2 @@
 # CRF
+本项目包含了CRF用于图像分割的内容，其中examples中包含有利用图像进行非RGB图像的分割，使用jupyuter可以查看。
